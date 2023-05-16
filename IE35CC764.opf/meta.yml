@@ -1,0 +1,19 @@
+id: IE35CC764
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:03.838798
+last_modified: 2023-01-04 11:29:03.838814
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  '7691':
+    title: Prayer for the Long Life of Alak Zenkar Rinpoche, the Incarnation of Do
+      Khyentsé Yeshé Dorjé
+    base_file: 7691.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
